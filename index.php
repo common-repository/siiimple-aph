@@ -1,0 +1,4 @@
+<?php
+/*
+Siiimple is golden.
+*/

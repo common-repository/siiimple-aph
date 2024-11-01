@@ -1,0 +1,9 @@
+body { background: #0a84ff !important; }
+.login form { border-radius: 0 0 3px 3px; border-top: 3px solid #37d3a9; box-shadow: none; padding-bottom: 34px; }
+.login h1 a { background-image: url(../img/siiimple-logo.svg); background-position: center; background-repeat: no-repeat; background-size: 320px; height: 60px; width: 320px; }
+p#backtoblog, p#nav, div.privacy-policy-page-link { display: none; }
+.login label { color: #000; }
+.login input[type="text"], .login input[type="password"] { border: none; box-shadow: none; }
+.login .button-primary { width: auto; float: right; background-color: #ff1053 !important; background: -webkit-gradient(linear, left top, left bottom, from(#ff1053), to(#ff1053)); background: -webkit-linear-gradient(top, #ff1053, #ff1053); background: -moz-linear-gradient(top, #ff1053, #ff1053); background: -ms-linear-gradient(top, #ff1053, #ff1053); background: -o-linear-gradient(top, #ff1053, #ff1053); background-image: -ms-linear-gradient(top, #ff1053 0%, #ff1053 100%); color: #ffffff; -webkit-border-radius: 0; border: none; text-shadow: none; box-shadow: none; transition: all .4s ease-in-out 0s; }
+.login .button-primary:hover { opacity: .75; }
+.login form .forgetmenot { padding-top: 4px; }
